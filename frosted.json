@@ -26,7 +26,7 @@
         "border.selected": "#3e4452",
         "border.transparent": "#3e4452",
         "border.disabled": "#3e4452",
-        "elevated_surface.background": "#6666661b",
+        "elevated_surface.background": "#666666",
         "surface.background": null,
         "element.background": "#4047541b",
         "element.hover": "#2c313a",
