@@ -3,5 +3,5 @@ name = "Frosted Dark Theme"
 version = "0.0.1"
 schema_version = 1
 authors = ["David Liu <davidas99017@gmail.com>"]
-descriptions = "A frosted glass dark theme that is high-contrast and eye-soothing"
+description = "A pleasant frosted glass dark theme"
 repository = "https://github.com/daviiiL/frosted-theme.git"
