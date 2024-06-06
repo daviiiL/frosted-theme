@@ -1,5 +1,6 @@
 #To support this project, pretty please open an issue here when you see something needs improving. 
-> Disclaimer: the blur attribute doesn't work on some WM/ Linux DEs 
+
+> Disclaimer: Linux Users: the blur attribute doesn't work on certain WMs/ Linux DEs. Will update once Zed linux support comes out of "alpha".  
 
 ## A simple frosted glass dark theme
 
